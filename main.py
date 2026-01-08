@@ -1,4 +1,4 @@
-from Operations.calculator import add, sub, mul, div
+from operations.calculator import add, sub, mul, div
 def main():
     print("1: Addition")
     print("2: Substraction")
