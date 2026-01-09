@@ -1,6 +1,4 @@
-print("This is my calculator")
-import math
-import operator
+
 def add(x,y):
     return x+y
 def sub(x,y):
