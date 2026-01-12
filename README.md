@@ -145,6 +145,3 @@ Add Docker support later for containerized CI/CD
 Suhani Sharma
 Cloud / DevOps Enthusiast
 AWS | Terraform | GitHub | CI/CD | Python
-
-yaml
-Copy code
